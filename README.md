@@ -88,3 +88,4 @@ python predict.py.py --model=unet
 
 欢迎任何形式的PR和issue。
 
+最后附上第一名大佬的解决方案：https://github.com/gujingxiao/Lane-Segmentation-Solution-For-BaiduAI-Autonomous-Driving-Competition ，干货满满！
