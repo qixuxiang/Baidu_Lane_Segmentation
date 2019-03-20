@@ -71,6 +71,10 @@ python predict.py.py --model=unet
 - 透视变换训练俯视图
 - SCSE: [Concurrent Spatial and Channel ‘Squeeze &Excitation’ in Fully Convolutional Networks](https://arxiv.org/pdf/1803.02579.pdf)
 
+## 效果演示
+
+https://github.com/qixuxiang/Baidu_Lane_Segmentation/blob/master/demo.gif
+
 ## 感谢
 
 感谢队友[universea](https://github.com/universea)提供的算力资源和强力输出，比赛之后认识了一堆大佬，这场比赛收获颇丰！
