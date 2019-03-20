@@ -73,7 +73,8 @@ python predict.py.py --model=unet
 
 ## 效果演示
 
-https://github.com/qixuxiang/Baidu_Lane_Segmentation/blob/master/demo.gif
+![image](https://github.com/qixuxiang/Baidu_Lane_Segmentation/blob/master/demo.gif)
+
 
 ## 感谢
 
