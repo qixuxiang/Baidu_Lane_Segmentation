@@ -53,7 +53,7 @@
 python train.py --model=unet 
 ```
 
-这里训练默认为从头训练，其中unet可以替换为`deeplab_v3p`，`deeplabv3p_ours`，`multires_unet`，和`pannet`，分别对应上面几个模型。
+这里训练默认为从头训练，其中`unet`可以替换为`deeplab_v3p`，`deeplabv3p_ours`，`multires_unet`，`dense_unet`和`pannet`，分别对应上面几个模型。
 
 如果用预训练模型请在`train.py`下把`pretrain_model`的值改为1。
 
@@ -63,7 +63,7 @@ python train.py --model=unet
 python predict.py.py --model=unet 
 ```
 
-其中unet可以替换为`deeplab_v3p`，`deeplabv3p_ours`，`multires_unet`，和`pannet`，分别对应上面几个模型。
+其中`unet`可以替换为`deeplab_v3p`，`deeplabv3p_ours`，`multires_unet`，`dense_unet`和`pannet`，分别对应上面几个模型。
 
 ## 方法整理
 
